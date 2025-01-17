@@ -1,0 +1,10 @@
+transformers
+transformers[torch]
+peft
+datasets
+torch
+torchvision
+pandas
+numpy
+matplotlib
+seaborn
