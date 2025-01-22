@@ -2,7 +2,8 @@ transformers
 transformers[torch]
 peft
 datasets
-torch
+torch==2.5.1+cu124
+torchaudio==2.5.1+cu124
 torchvision
 pandas
 numpy
