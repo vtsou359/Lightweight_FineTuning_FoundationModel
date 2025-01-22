@@ -10,3 +10,5 @@ matplotlib
 seaborn
 protobuf
 scikit-learn
+nvidia-pyindex
+nvidia-cuda-runtime-cu12
