@@ -2,7 +2,9 @@ transformers
 transformers[torch]
 peft
 datasets
-torch
+evaluate
+torch==2.5.1+cu124
+torchaudio==2.5.1+cu124
 torchvision
 pandas
 numpy
@@ -10,3 +12,6 @@ matplotlib
 seaborn
 protobuf
 scikit-learn
+nvidia-pyindex
+nvidia-cuda-runtime-cu12
+bitsandbytes
