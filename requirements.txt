@@ -3,11 +3,10 @@ transformers[torch]
 peft
 datasets
 evaluate
-torch==2.5.1+cu124
-torchaudio==2.5.1+cu124
+torch==2.5.1
+torchaudio==2.5.1
 torchvision
 pandas
-numpy
 matplotlib
 seaborn
 protobuf
